@@ -29,6 +29,10 @@ Archivo .csv que contiene una lista de países del mundo.
 - regions.csv (369,543 bytes, last modified Oct 22, 2020):
 Archivo .csv que contiene una lista de subregiones de los países.
 
+Debajo see visualizan las difeerentes tablas de la BBDD que formaremos con los diferentes .csv:
+
+![](https://github.com/maglionejm/itba-foundations/blob/main/tp-itba-foundations-2/img/bbdd_ourairports.png)
+
 # Metodología de consumo de fuente de datos
 Se ha instanciado un storage en Google Cloud (GCP) para almacenar los diferentes archivos .csv zippeados en un bucket:
 
