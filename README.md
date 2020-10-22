@@ -53,6 +53,7 @@ Exponemos los datos a través de una URL pública: https://storage.googleapis.co
 $ docker network create itba
 ```
 
+
 2. Ahora levantamos la base de datos (PostgreSQL) y generaremos la estructura de la misma (BBDD, tablas, constraints):
 
 ```
@@ -60,6 +61,7 @@ $ cd tp-itba-foundations-2
 $ cd infra 
 $ docker-compose up
 ```
+
 
 3. Con el schema y las tablas creadas entonces es momento de poblar la base de datos. La cargaremos corriendo un ETL. Para esto vamos a buildear una imagen de Docker que contiene un script de Python.
 
@@ -76,6 +78,7 @@ $ docker run --rm -e DATABASE_HOST=pg-docker \
 ```
 
 Una vez ejecutado esto, se visualizarán los logs y la evidencia de la carga de la base de datos con los archivos de ourairports (en GCP), y se cargarán en la tabla que corresponda.
+
 
 
 4. Posteriormente, ya con los datos cargados, correremos las queries de la siguiente forma:
@@ -108,6 +111,8 @@ Query_1:¿Cuáles son los aeropuertos con menor elevación y en qué región se 
 |7|Pioneers Memorial Hospital Heliport|     US-CA|           -99|
 |8|O'Connell Brothers Airport|      US-CA|           -99|
 |9|Salton Sea Airport|      US-CA|           -84|
+
+
 
 Query_2:¿Qué aeeropuertos tienen una longitud de pista de entre 24 y 25 pies?
 
@@ -299,6 +304,8 @@ Query_2:¿Qué aeeropuertos tienen una longitud de pista de entre 24 y 25 pies?
 | 183  | Falcons Nest Heliport                             | 25 |
 | 184  | Meadowlands Hospital Medical Center Heliport      | 25 |
 
+
+
 Query_3: ¿Cuáles son los 10 países con más aeropuertos del mundo?
 
 ||country|total|
@@ -314,7 +321,10 @@ Query_3: ¿Cuáles son los 10 países con más aeropuertos del mundo?
 |8 |        Germany  | 959 |
 |9 |         France  |  895|
 
+
+
 Query 4:¿ ?
+
 
 
 Query 5:¿ ?
