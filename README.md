@@ -71,17 +71,18 @@ Query_2:
 
 Query_3: ¿Cuáles son los 10 países con más aeropuertos del mundo?
 
-  country  total
-0   United States  23673
-1          Brazil   5206
-2          Canada   2801
-3       Australia   2021
-4          Mexico   1461
-5     South Korea   1374
-6  United Kingdom   1238
-7          Russia   1122
-8         Germany    959
-9          France    895
+||country|total|
+|--|--|--|
+|0 |   United States |23673|
+|1 |         Brazil  | 5206|
+|2 |         Canada  | 2801|
+|3 |      Australia  | 2021|
+|4 |         Mexico  | 1461|
+|5 |    South Korea  | 1374|
+|6 | United Kingdom  | 1238|
+|7 |         Russia  | 1122|
+|8 |        Germany  | 959 |
+|9 |         France  |  895|
 
 Query 4:
 
