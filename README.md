@@ -16,15 +16,15 @@ Validar conocimientos y aplicación sobre:
 Fuente: https://ourairports.com/data/
 
 Datasets:
-- airports.csv (8,756,709 bytes, last modified Oct 22, 2020)
+- airports.csv (8,756,709 bytes, last modified Oct 22, 2020):
 Archivo .csv que contiene información sobre aeropuertos.
-- airport-frequencies.csv (1,217,897 bytes, last modified Oct 22, 2020)
+- airport-frequencies.csv (1,217,897 bytes, last modified Oct 22, 2020):
 Archivo .csv que contiene información sobre frecuencias de comunicación entre aeropuertos.
-- runways.csv (3,047,325 bytes, last modified Oct 22, 2020)
+- runways.csv (3,047,325 bytes, last modified Oct 22, 2020):
 Archivo .csv que contiene información sobre las pistas de aterrizaje/despegue de aeropuertos globalmente.
-- navaids.csv (1,526,528 bytes, last modified Oct 22, 2020)
+- navaids.csv (1,526,528 bytes, last modified Oct 22, 2020):
 Archivo .csv que enumera las ayudas a la navegación por radio en todo el mundo.
-- countries.csv (20,663 bytes, last modified Oct 22, 2020)
+- countries.csv (20,663 bytes, last modified Oct 22, 2020):
 Archivo .csv que contiene una lista de países del mundo.
-- regions.csv (369,543 bytes, last modified Oct 22, 2020)
+- regions.csv (369,543 bytes, last modified Oct 22, 2020):
 Archivo .csv que contiene una lista de subregiones de los países.
