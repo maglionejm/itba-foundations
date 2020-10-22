@@ -31,4 +31,4 @@ Archivo .csv que contiene una lista de subregiones de los países.
 
 # Metodología de consumo de fuente de datos
 Se ha instanciado un storage en Google Cloud (GCP) para almacenar los diferentes archivos .csv zippeados en un bucket
-![Bucket GCP](itba-foundations/tp-itba-foundations-2/img/gcp_buckets.JPG)
+![alt text](https://github.com/maglionejm/itbafoundations/blob/main/gcp_buckets.jpg?raw=true)
