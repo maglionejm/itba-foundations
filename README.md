@@ -30,4 +30,4 @@ Archivo .csv que contiene una lista de países del mundo.
 Archivo .csv que contiene una lista de subregiones de los países.
 
 # Metodología de consumo de fuente de datos
-He instanciado un storage en Google Cloud (GCP) para almacenar los diferentes archivos .csv zippeados en un bucket
+Se ha instanciado un storage en Google Cloud (GCP) para almacenar los diferentes archivos .csv zippeados en un bucket
