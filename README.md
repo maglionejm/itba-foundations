@@ -45,3 +45,20 @@ Se ha instanciado un storage en Google Cloud (GCP) para almacenar los diferentes
 Exponemos los datos a través de una URL pública: https://storage.googleapis.com/baseball-itba/ourairports4.zip
 
 
+# Proceso de levantar los contenedores 
+
+1. El primer paso consiste en crear la red que utilizaremos para que se comuniquen los componentes, ejecutando en consola el siguiente comando: 
+
+```
+$ docker network create itba
+```
+
+2. Ahora levantaremos la base de datos (PostgreSQL) y generaremos la estructura de la misma (BBDDm, tablas, constraints):
+
+```
+$ cd tp-itba-foundations-2
+$ cd infra 
+$ docker-compose up
+```
+
+3. 
