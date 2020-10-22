@@ -13,7 +13,7 @@ Validar conocimientos y aplicación sobre:
 
 # Fuente de datos seleccionada
 
-Fuente: [sitio] https://ourairports.com/data/
+Fuente: https://ourairports.com/data/
 
 Datasets:
 - airports.csv (8,756,709 bytes, last modified Oct 22, 2020)
