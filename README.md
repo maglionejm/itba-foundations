@@ -53,7 +53,7 @@ Exponemos los datos a través de una URL pública: https://storage.googleapis.co
 $ docker network create itba
 ```
 
-2. Ahora levantaremos la base de datos (PostgreSQL) y generaremos la estructura de la misma (BBDDm, tablas, constraints):
+2. Ahora levantaremos la base de datos (PostgreSQL) y generaremos la estructura de la misma (BBDD, tablas, constraints):
 
 ```
 $ cd tp-itba-foundations-2
