@@ -323,10 +323,24 @@ Query_3: ¿Cuáles son los 10 países con más aeropuertos del mundo?
 
 
 
-Query 4:¿ ?
+Query 4:¿Cuáles son los aeropuertos que tienen una pista de GRVL, no tienen iluminación y miden 2500 ft?
+
+|    | name                           | municipality    | iso_country |
+|----|--------------------------------|-----------------|-------------|
+| 0  | Crowley Ranch Airstrip         | Crowley         | US          |
+| 1  | Lowell Field                   | Anchor Point    | US          |
+| 2  | Norwood Airport                | Norwood         | CA          |
+| 3  | Snettisham Airport             | Snettisham      | US          |
+| 4  | Wilderness Airport             | Bly             | US          |
+| 5  | South Gasline Airport          | Sterling        | US          |
+| 6  | Robin'S Landing                | Point Mackenzie | US          |
+| 7  | Westberg-Rosling Farms Airport | Roggen          | US          |
+| 8  | Anchor River Airpark           | Anchor Point    | US          |
+| 9  | Swanson Ranch 3 Airport        | Battle Mountain | US          |
+| 10 | J K D Farms Airport            | Ellensburg      | US          |
 
 
 
-Query 5:¿ ?
+Query 5:
 
 
