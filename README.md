@@ -49,6 +49,8 @@ Nota: En el caso de no ver la imagen por favor revisarla [aquí](https://github.
 Exponemos los datos a través de una URL pública: https://storage.googleapis.com/baseball-itba/ourairports4.zip
 
 
+Nota: En el caso de no ver la imagen por favor revisarla [aquí](https://github.com/maglionejm/itba-foundations/blob/main/tp-itba-foundations-2/img/ourairports_zip.png)
+
 # Proceso para levantar los contenedores, crear el schema de la BBDD, cargar los datos y correr las queries
 
 1. El primer paso consiste en crear la red que utilizaremos para que se comuniquen los componentes, ejecutando en consola el siguiente comando: 
