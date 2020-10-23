@@ -34,6 +34,8 @@ Debajo se visualizan las diferentes tablas de la BBDD que formaremos con los dif
 
 ![](https://github.com/maglionejm/itba-foundations/blob/main/tp-itba-foundations-2/img/bbdd_ourairports.png)
 
+Nota: En el caso de no verse la imagen por favor reviarla [aquí](https://github.com/maglionejm/itba-foundations/blob/main/tp-itba-foundations-2/img/bbdd_ourairports.png)
+
 # Metodología de consumo de fuente de datos
 Se ha instanciado un storage en Google Cloud (GCP) para almacenar los diferentes archivos .csv zippeados en un bucket:
 
@@ -41,6 +43,8 @@ Se ha instanciado un storage en Google Cloud (GCP) para almacenar los diferentes
 
 
 ![](https://github.com/maglionejm/itba-foundations/blob/main/tp-itba-foundations-2/img/ourairports_zip.png)
+
+Nota: En el caso de no verse la imagen por favor reviarla [aquí](https://github.com/maglionejm/itba-foundations/blob/main/tp-itba-foundations-2/img/gcp_buckets.JPG)
 
 Exponemos los datos a través de una URL pública: https://storage.googleapis.com/baseball-itba/ourairports4.zip
 
